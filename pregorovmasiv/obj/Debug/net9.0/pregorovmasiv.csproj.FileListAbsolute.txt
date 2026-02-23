@@ -1,0 +1,14 @@
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\bin\Debug\net9.0\pregorovmasiv.exe
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\bin\Debug\net9.0\pregorovmasiv.deps.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\bin\Debug\net9.0\pregorovmasiv.runtimeconfig.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\bin\Debug\net9.0\pregorovmasiv.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\bin\Debug\net9.0\pregorovmasiv.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\pregorovmasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\pregorovmasiv.AssemblyInfoInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\pregorovmasiv.AssemblyInfo.cs
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\pregorovmasiv.csproj.CoreCompileInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\pregorovmasiv.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\refint\pregorovmasiv.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\pregorovmasiv.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\pregorovmasiv.genruntimeconfig.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\pregorovmasiv\obj\Debug\net9.0\ref\pregorovmasiv.dll

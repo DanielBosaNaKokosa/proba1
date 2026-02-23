@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1D578-3299-468B-B833-F7C9362192D8}|zadaca\\zadaca.csproj|c:\\users\\1212-6\\desktop\\\u0434\u0430\u043D\u0438\u0435\u043B 9\u0430\\spisuci\\zadaca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1D578-3299-468B-B833-F7C9362192D8}|zadaca\\zadaca.csproj|solutionrelative:zadaca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A474E-CB4D-40F6-A256-1FFFB9BEF622}|removea\\removea.csproj|c:\\users\\1212-6\\desktop\\\u0434\u0430\u043D\u0438\u0435\u043B 9\u0430\\spisuci\\removea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A474E-CB4D-40F6-A256-1FFFB9BEF622}|removea\\removea.csproj|solutionrelative:removea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BC3EB8-3529-4154-9372-1C2653643590}|find\\find.csproj|c:\\users\\1212-6\\desktop\\\u0434\u0430\u043D\u0438\u0435\u043B 9\u0430\\spisuci\\find\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BC3EB8-3529-4154-9372-1C2653643590}|find\\find.csproj|solutionrelative:find\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326F020C-B510-4D03-874A-9D2EB02E256D}|pregorovmasiv\\pregorovmasiv.csproj|c:\\users\\1212-6\\desktop\\\u0434\u0430\u043D\u0438\u0435\u043B 9\u0430\\spisuci\\pregorovmasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326F020C-B510-4D03-874A-9D2EB02E256D}|pregorovmasiv\\pregorovmasiv.csproj|solutionrelative:pregorovmasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07B3639-CC61-43ED-B1AF-850A732DF71D}|zad2\\zad2.csproj|c:\\users\\1212-6\\desktop\\\u0434\u0430\u043D\u0438\u0435\u043B 9\u0430\\spisuci\\zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07B3639-CC61-43ED-B1AF-850A732DF71D}|zad2\\zad2.csproj|solutionrelative:zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84C10FB-D7E6-48EE-9893-975DFAA7B10D}|spisuci\\spisuci.csproj|c:\\users\\1212-6\\desktop\\\u0434\u0430\u043D\u0438\u0435\u043B 9\u0430\\spisuci\\spisuci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84C10FB-D7E6-48EE-9893-975DFAA7B10D}|spisuci\\spisuci.csproj|solutionrelative:spisuci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84C10FB-D7E6-48EE-9893-975DFAA7B10D}|spisuci\\spisuci.csproj|c:\\users\\1212-6\\desktop\\\u0434\u0430\u043D\u0438\u0435\u043B 9\u0430\\spisuci\\spisuci\\spisuci.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B84C10FB-D7E6-48EE-9893-975DFAA7B10D}|spisuci\\spisuci.csproj|solutionrelative:spisuci\\spisuci.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07B3639-CC61-43ED-B1AF-850A732DF71D}|zad2\\zad2.csproj|c:\\users\\1212-6\\desktop\\\u0434\u0430\u043D\u0438\u0435\u043B 9\u0430\\spisuci\\zad2\\zad2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F07B3639-CC61-43ED-B1AF-850A732DF71D}|zad2\\zad2.csproj|solutionrelative:zad2\\zad2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\zadaca\\Program.cs",
+              "RelativeDocumentMoniker": "zadaca\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\zadaca\\Program.cs*",
+              "RelativeToolTip": "zadaca\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:22:19.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "spisuci.csproj",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\spisuci\\spisuci.csproj",
+              "RelativeDocumentMoniker": "spisuci\\spisuci.csproj",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\spisuci\\spisuci.csproj",
+              "RelativeToolTip": "spisuci\\spisuci.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T06:40:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\removea\\Program.cs",
+              "RelativeDocumentMoniker": "removea\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\removea\\Program.cs",
+              "RelativeToolTip": "removea\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:35:41.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\find\\Program.cs",
+              "RelativeDocumentMoniker": "find\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\find\\Program.cs",
+              "RelativeToolTip": "find\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:35:22.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\pregorovmasiv\\Program.cs",
+              "RelativeDocumentMoniker": "pregorovmasiv\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\pregorovmasiv\\Program.cs",
+              "RelativeToolTip": "pregorovmasiv\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:36:27.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "zad2.csproj",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\zad2\\zad2.csproj",
+              "RelativeDocumentMoniker": "zad2\\zad2.csproj",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\zad2\\zad2.csproj",
+              "RelativeToolTip": "zad2\\zad2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T06:50:35.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\zad2\\Program.cs",
+              "RelativeDocumentMoniker": "zad2\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\zad2\\Program.cs",
+              "RelativeToolTip": "zad2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T06:43:24.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\spisuci\\Program.cs",
+              "RelativeDocumentMoniker": "spisuci\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\\u0414\u0430\u043D\u0438\u0435\u043B 9\u0410\\spisuci\\spisuci\\Program.cs",
+              "RelativeToolTip": "spisuci\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T07:03:03.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\removea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\removea.AssemblyInfoInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\removea.AssemblyInfo.cs
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\removea.csproj.CoreCompileInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\bin\Debug\net9.0\removea.exe
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\bin\Debug\net9.0\removea.deps.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\bin\Debug\net9.0\removea.runtimeconfig.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\bin\Debug\net9.0\removea.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\bin\Debug\net9.0\removea.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\removea.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\refint\removea.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\removea.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\removea.genruntimeconfig.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\removea\obj\Debug\net9.0\ref\removea.dll

@@ -1,0 +1,14 @@
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\bin\Debug\net9.0\zad2.exe
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\bin\Debug\net9.0\zad2.deps.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\bin\Debug\net9.0\zad2.runtimeconfig.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\bin\Debug\net9.0\zad2.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\bin\Debug\net9.0\zad2.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\zad2.AssemblyInfoInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\zad2.AssemblyInfo.cs
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\zad2.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\refint\zad2.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\zad2.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\zad2.genruntimeconfig.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\zad2\obj\Debug\net9.0\ref\zad2.dll

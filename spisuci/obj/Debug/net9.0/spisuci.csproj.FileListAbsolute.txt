@@ -1,0 +1,14 @@
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\bin\Debug\net9.0\spisuci.exe
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\bin\Debug\net9.0\spisuci.deps.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\bin\Debug\net9.0\spisuci.runtimeconfig.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\bin\Debug\net9.0\spisuci.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\bin\Debug\net9.0\spisuci.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\spisuci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\spisuci.AssemblyInfoInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\spisuci.AssemblyInfo.cs
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\spisuci.csproj.CoreCompileInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\spisuci.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\refint\spisuci.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\spisuci.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\spisuci.genruntimeconfig.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\spisuci\obj\Debug\net9.0\ref\spisuci.dll
