@@ -1,0 +1,15 @@
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\bin\Debug\net9.0\TestRezultati.exe
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\bin\Debug\net9.0\TestRezultati.deps.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\bin\Debug\net9.0\TestRezultati.runtimeconfig.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\bin\Debug\net9.0\TestRezultati.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\bin\Debug\net9.0\TestRezultati.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\TestRezultati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\TestRezultati.AssemblyInfoInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\TestRezultati.AssemblyInfo.cs
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\TestRezultati.csproj.CoreCompileInputs.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\TestRezultati.sourcelink.json
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\TestRezultati.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\refint\TestRezultati.dll
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\TestRezultati.pdb
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\TestRezultati.genruntimeconfig.cache
+C:\Users\1212-6\Desktop\Даниел 9А\spisuci\TestRezultati\obj\Debug\net9.0\ref\TestRezultati.dll
